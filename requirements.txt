@@ -1,0 +1,6 @@
+discord.py
+requests
+dotenv
+python-dotenv
+anthropic
+mysql-connector-python
